@@ -1,0 +1,19 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body{
+  background: #888;
+  text-align: center;
+}
+.card{
+  background: rgb(227, 82, 82);
+  border-radius: 30px;
+  margin: 29px;
+  padding: 10px;
+}
+button{
+  width: 20px;
+}
